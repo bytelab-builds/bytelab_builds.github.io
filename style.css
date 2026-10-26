@@ -96,9 +96,9 @@ a {
 }
 
 .section {
-  scroll-margin-top: 70px;
   padding: 80px 8%;
   text-align: center;
+  scroll-margin-top: 70px;
 }
 
 .section:nth-of-type(even) {
